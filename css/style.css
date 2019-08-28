@@ -35,6 +35,9 @@ main {
         -30px 0px 40px rgba(0, 0, 0, 0.1);
 }
 
+.splash-logo {
+}
+
 .middle {
     text-align: center;
     margin: auto;
@@ -65,7 +68,7 @@ main {
 }
 
 #navbar :hover {
-    background: #da2100;
+    background: #36302e;
     color: #eee;
 }
 
@@ -186,7 +189,7 @@ ul {
 }
 
 .btn:hover {
-    background: #da2100;
+    background: #36302e;
     color: #eee;
 }
 
@@ -239,10 +242,11 @@ a {
         height: 100%;
     }
 
-    #landing-text {
-        /* height: 100vh; */
+    /* landing image; at the top of the page */
+    /* #landing-text {
+        height: 100vh;
         display: none;
-    }
+    } */
 }
 
 /* for screen sizes 700px and up */
